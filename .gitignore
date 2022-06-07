@@ -1,0 +1,9 @@
+# ignore .env files
+.env
+
+# ignore other file types
+*.csv
+*.json
+
+# ignore test files
+test.*
